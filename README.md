@@ -2,3 +2,4 @@
 这是我的第一个GitHub网站，我将把它作为学校课程学习的记录工具
 
 ## CMM_341
+[点击这里](https://github.com/Tan-sir-web/USM_-/blob/main/CMM_341.md)查看具体内容
